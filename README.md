@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://files.catbox.moe/6x098u.jpeg" width="350" height="350">
 </div>
-<b>Arcleys By Arcvyn Official</b>
+<b align="center">Arcleys By Arcvyn Official</b>
 
 <h2 align="center">CONTACT</h2>
 
