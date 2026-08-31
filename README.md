@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://files.catbox.moe/6x098u.jpeg" width="350" height="350">
-  <br>
-  <p><b>Arcleys By Arcvyn Official</b></p>
+  <br><br>
+  <h1>Arcleys By Arcvyn Official</h1>
 </div>
+
+<hr color="#30363d" size="1">
 
 <h2 align="center">CONTACT</h2>
 
