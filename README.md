@@ -4,8 +4,6 @@
   <h1>Arcleys By Arcvyn Official</h1>
 </div>
 
-<hr color="#30363d" size="1">
-
 <h2 align="center">CONTACT</h2>
 
 <p align="center">
