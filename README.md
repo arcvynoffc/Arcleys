@@ -3,8 +3,6 @@
 <div align="center">
 
 
-[![npm version](https://img.shields.io/npm/v/arcleys?color=181717&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/arcleys)
-[![npm downloads](https://img.shields.io/npm/dm/arcleys?color=181717&logo=npm&logoColor=white&style=for-the-badge)](https://www.npmjs.com/package/arcleys)
 [![GitHub stars](https://img.shields.io/github/stars/arcvynoffc/arcleys?color=181717&logo=github&logoColor=white&style=for-the-badge)](https://github.com/arcvynoffc/Arcleys)
 [![GitHub forks](https://img.shields.io/github/forks/arcvynoffc/arcleys?color=181717&logo=github&logoColor=white&style=for-the-badge)](https://github.com/arcvynoffc/Arcleys)
 [![License](https://img.shields.io/badge/license-MIT-black?style=for-the-badge)](LICENSE)
